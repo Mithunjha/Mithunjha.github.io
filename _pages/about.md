@@ -2,33 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 17 Holman St, Allston, MA02134, USA. (+1) 617 870 8948.
 
 profile:
   align: right
   image: IMG_0027.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Northwest Building, 147</p>
+    <p>52 Oxford Street</p>
+    <p>Cambridge, Massachusetts 02138</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Mithunjha Anandakumar. I am a post baccalaureate research fellow at Faculty of Arts and Sciences, Harvard University. Currently my research work involves developing deep learning algorithms to reconstruct microscopic images with Dr. Dushan Wadduwage, Wadduwage Lab, Harvard University and protein structure generation/ modeling with of Dr. Sergey Ovchinnikov, SO lab, Harvard University. 
+Hi there! My name is Mithunjha Anandakumar. I am a post baccalaureate research fellow at Faculty of Arts and Sciences, Harvard University. Currently my research work involves developing deep learning algorithms to reconstruct microscopic images with [Dr. Dushan Wadduwage](https://centerforadvancedimaging.harvard.edu/people/dushan-wadduwage-phd), [Wadduwage Lab](https://wadduwagelab.com/), Harvard University and protein structure generation/ modeling with of [Dr. Sergey Ovchinnikov](https://scholar.google.com/citations?user=8KJ9gf4AAAAJ&hl=en), [SO lab](https://site.solab.org/home), Harvard University. 
 
-I received my bachelor's degree in Biomedical engineering from University of Moratuwa, Sri Lanka in 2022. I completed my thesis on "Interpretable multi-modal sleep monitoring system using Ear EEG and EOG" with Dr. Anjula De Silva, University of Moratuwa, Dr. Chamira Edussooriya, University of Moratuwa and Dr. Simon Lind Kappel, Aarhus University.
+I received my bachelor's degree in Biomedical engineering from [Department of Electronic and Telecommication](https://ent.uom.lk/), University of Moratuwa, Sri Lanka in 2022. I completed my thesis on "Interpretable multi-modal sleep monitoring system using Ear EEG and EOG" with [Dr. Anjula De Silva](https://ent.uom.lk/team/dr-anjula-de-silva/), University of Moratuwa, [Dr. Chamira Edussooriya](https://ent.uom.lk/team/dr-chamira-u-s-edussooriya/), University of Moratuwa and [Dr. Simon Lind Kappel](https://pure.au.dk/portal/en/persons/simon-lind-kappel(ac38d32d-9622-4bf6-9103-1d9225c5322c).html), Aarhus University. I gained industry experience working as an trainee biomedical research engineer at Zone24x7, developing algorithms for stress detection using Heart Rate Variability (HRV) parameters, and algorithms for Breathing Rate (BR) derivation from ECG and PPG.
 
 I am aspired to work towards developing AI methods to improve healthcare and medical knowledge. I have keen interest on Computer Vision, Deep Learning, Medical Imaging, Signal Processing and Genomics.
 
-
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Update : I'm applying for PhD positions for 2023 Fall intake. Please do get in touch if you think I'm a good fit for your lab.**
