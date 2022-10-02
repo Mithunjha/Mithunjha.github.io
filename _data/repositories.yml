@@ -2,9 +2,9 @@ github_users:
   - Mithunjha
 
 github_repos:
-  - PDAC_Prediction
-  - Slicer-LineIntensityProfile
-  - Segmentation
-  - ITK_ImageRegistration3D
-  - EarEEG_KnowledgeDistillation
-  - FPGA_MatrixMultiplication
+  - Mithunjha/PDAC_Prediction
+  - Mithunjha/Slicer-LineIntensityProfile
+  - Mithunjha/Segmentation
+  - Mithunjha/ITK_ImageRegistration3D
+  - Mithunjha/EarEEG_KnowledgeDistillation
+  - Mithunjha/FPGA_MatrixMultiplication
