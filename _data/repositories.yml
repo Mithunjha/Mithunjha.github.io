@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Mithunjha
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - PDAC_Prediction
+  - Slicer-LineIntensityProfile
+  - Segmentation
+  - ITK_ImageRegistration3D
+  - EarEEG_KnowledgeDistillation
+  - FPGA_MatrixMultiplication
