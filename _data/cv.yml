@@ -60,7 +60,7 @@
         
         
 - title: MOOCs
-  type: nested_list
+  type: list
   contents:
       items : 
       - Machine Learning* by Stanford University
