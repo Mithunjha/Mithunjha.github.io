@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 17 Holman St, Allston, MA02134, USA. (+1) 617 870 8948.
+subtitle: Post Baccalaureate Fellow, Harvard University
 
 profile:
   align: right
