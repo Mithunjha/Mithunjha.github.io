@@ -18,12 +18,10 @@
       description:
         - First Class Honours with 3.98 CGPA (out of 4.2)
         - Included in Dean’s Honors List in for 7 semesters
-      title : Coursework
-        title: Biomedical Engineering
-          description:
-            - Bio signal processing, Medical image processing, Biotechnology, 
-        title:
-            Advances in Machine vision, Data Structures & algorithms, Fundamentals of computer organization & design, Applied statistic, and Neural networks & fuzzy logic
+        - Coursework
+              title : Biomedical Engineering
+              content:
+            - Bio signal processing, Medical image processing, Biotechnology, Advances in Machine vision, Data Structures & algorithms, Fundamentals of computer organization & design, Applied statistic, and Neural networks & fuzzy logic
 
 
 - title: Experience
