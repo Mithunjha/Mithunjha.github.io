@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: False
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -74,7 +74,7 @@ linkedin_username: mithunjha-anandakumar-441618184
 scholar_userid: RlggmWoAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: 0000-0001-6392-6044 # your ORCID ID
-medium_username: # your Medium username
+medium_username: @amithunjha # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
