@@ -26,6 +26,6 @@ I am aspired to work towards developing AI methods to improve healthcare and med
 
 **Update : I'm applying for PhD positions for 2023 Fall intake. Please do get in touch if you think I'm a good fit for your lab.**
 
-![logos](https://user-images.githubusercontent.com/67052077/194714488-708441f3-90d1-416f-9b3e-542ab6d75801.png){:height="150px" width="1000px"}
+![logos](https://user-images.githubusercontent.com/67052077/194714488-708441f3-90d1-416f-9b3e-542ab6d75801.png){:height="160px" width="800px"}
 <!-- <img src="assets/img/logos.png" width="200"> -->
 
