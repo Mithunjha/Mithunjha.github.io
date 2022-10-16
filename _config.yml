@@ -118,16 +118,16 @@ permalink: /blog/:year/:title/
 pagination:
   enabled: true
 
-# Comments
-disqus_shortname: al-folio # put your disqus shortname
-https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+# # Comments
+# disqus_shortname: al-folio # put your disqus shortname
+# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-External sources.
-If you have blog posts published on medium.com or other exteranl sources,
-you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-  - rss_url: https://medium.com/@amithunjha/pdac-prediction-based-on-plain-ct-images-30367434529a/feed.xml
+# External sources.
+# If you have blog posts published on medium.com or other exteranl sources,
+# you can display them in your blog by adding a link to the RSS feed.
+# external_sources:
+#   - name: medium.com
+#   - rss_url: https://medium.com/@amithunjha/pdac-prediction-based-on-plain-ct-images-30367434529a/feed.xml
 
 # -----------------------------------------------------------------------------
 # Collections
