@@ -140,7 +140,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: False
+    output: True
     permalink: /projects/:path/
 
 news_scrollable: False # adds a vertical scroll bar if there are more than 3 news items
