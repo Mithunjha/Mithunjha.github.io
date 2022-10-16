@@ -112,11 +112,11 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name: Mithunjha's Space # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Whitespace for my ideas :D
-permalink: /blog/:year/:title/
+# permalink: /blog/:year/:title/
 
-# # Pagination
-# pagination:
-#   enabled: true
+# Pagination
+pagination:
+  enabled: true
 
 # # Comments
 # disqus_shortname: al-folio # put your disqus shortname
