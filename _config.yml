@@ -114,9 +114,9 @@ blog_nav_title: blog # your blog must have a title for it to be displayed in the
 blog_description: Whitespace for my ideas :D
 permalink: /blog/:year/:title/
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: true
 
 # # Comments
 # disqus_shortname: al-folio # put your disqus shortname
