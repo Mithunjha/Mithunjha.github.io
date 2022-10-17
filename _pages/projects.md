@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my research projects.
 nav: true
 nav_order: 2
-display_categories: [Research, Academics]
+display_categories: [Research work, Course work]
 horizontal: false
 ---
 
