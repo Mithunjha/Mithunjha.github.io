@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: A Novel Multiresolution-Statistical Texture Analysis Architecture: Radiomics-Aided Diagnosis of PDAC Based on Plain CT Images
+description: Reimplenting a paper for medical image processing module
+redirect: https://github.com/Mithunjha/PDAC_Prediction
+importance: 1
+category: Course work
 ---
 
 
