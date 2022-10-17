@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-redirect: https://unsplash.com
+title: Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers
+description: Final year project with University of Moratuwa, Sri Lanka
+img: assets/img/CMT_performance.png
+redirect: https://github.com/Jathurshan0330/Cross-Modal-Transformer
 importance: 1
-category: work
+category: Research work
 ---
 
 
