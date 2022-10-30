@@ -2,6 +2,7 @@ github_users:
   - Mithunjha
 
 github_repos:
+  - Mithunjha/EarEEG_KnowledgeDistillation
   - Mithunjha/PDAC_Prediction
   - Mithunjha/Slicer-LineIntensityProfile
   - Mithunjha/Segmentation
