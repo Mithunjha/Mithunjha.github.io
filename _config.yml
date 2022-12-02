@@ -116,7 +116,7 @@ blog_description: Whitespace for my ideas :D
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # # Comments
 # disqus_shortname: al-folio # put your disqus shortname
