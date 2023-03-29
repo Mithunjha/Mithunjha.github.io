@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post Baccalaureate Fellow, Harvard University
+subtitle: Joint Post Baccalaureate Fellow, Harvard University
 
 profile:
   align: right
@@ -23,8 +23,6 @@ Hi there! My name is Mithunjha Anandakumar. I am a joint post baccalaureate rese
 I received my bachelor's degree in Biomedical engineering from [Department of Electronic and Telecommication](https://ent.uom.lk/), University of Moratuwa, Sri Lanka in 2022. I completed my thesis on "Interpretable multi-modal sleep monitoring system using Ear EEG and EOG" with [Dr. Anjula De Silva](https://ent.uom.lk/team/dr-anjula-de-silva/), University of Moratuwa, [Dr. Chamira Edussooriya](https://ent.uom.lk/team/dr-chamira-u-s-edussooriya/), University of Moratuwa and [Dr. Simon Lind Kappel](https://pure.au.dk/portal/en/persons/simon-lind-kappel(ac38d32d-9622-4bf6-9103-1d9225c5322c).html), Aarhus University. I gained industry experience working as a trainee biomedical research engineer at Zone24x7, developing biosignal processing algorithms to extract Breathing Rate (BR) from ECG and PPG.
 
 I am aspired to work towards developing cutting-edge machine learning methods for advancing medicine and healthcare. I have keen interest on Computer Vision, Deep Learning, Medical Imaging, and Biosignal Processing.
-
-**Update : I'm applying for PhD positions for 2023 Fall intake. Please do get in touch if you think I'm a good fit for your lab.**
 
 ![logos](https://user-images.githubusercontent.com/67052077/194714488-708441f3-90d1-416f-9b3e-542ab6d75801.png){:height="160px" width="800px"}
 <!-- <img src="assets/img/logos.png" width="200"> -->
