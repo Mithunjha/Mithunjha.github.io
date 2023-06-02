@@ -6,7 +6,7 @@ subtitle: Joint Post Baccalaureate Fellow, Harvard University
 
 profile:
   align: right
-  image: IMG_0027.png
+  image: IMG_6436.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Northwest Building, 147</p>
