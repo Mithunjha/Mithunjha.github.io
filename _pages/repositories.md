@@ -1,14 +1,11 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: My GitHub profile and selected repositories.
+title: GitHub Repositories
+description: Selected repositories from my GitHub profile.
 nav: true
 nav_order: 3
 ---
-
-
-## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
