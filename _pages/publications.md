@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: publications by categories in reversed chronological order. The * denotes equal first authors.
 years: [2022, 2021]
 nav: true
