@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: DEEP-squared
 description: Submitted to Light - Science and Application
 redirect: https://github.com/wadduwagelab/DEEP-squared
