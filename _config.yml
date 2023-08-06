@@ -142,12 +142,10 @@ collections:
   projects:
     output: True
     permalink: /projects/:path/
-  featured:
-    output: True
-    permalink: /featured/:path/
 
-news_scrollable: False # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 6 # leave blank to include all the news in the `_news` folder
+
+news_scrollable: True # adds a vertical scroll bar if there are more than 3 news items
+news_limit:  # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
