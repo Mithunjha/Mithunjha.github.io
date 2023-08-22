@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Mithunjha Anandakumar. I am a first-year Ph.D. student in [Bio engineering](https://bioengineering.illinois.edu/) at the University of Illinois, Urbana-Champaign.
+Hi there! My name is Mithunjha Anandakumar. I am a first-year Ph.D. student in [Bioengineering](https://bioengineering.illinois.edu/) at the University of Illinois, Urbana-Champaign.
 
 I was a joint post-baccalaureate research fellow at the Faculty of Arts and Sciences, Harvard University. My research involved developing deep learning algorithms to reconstruct microscopic images with [Dr. Dushan Wadduwage](https://centerforadvancedimaging.harvard.edu/people/dushan-wadduwage-phd), [Wadduwage Lab](https://wadduwagelab.com/), Harvard University and protein structure generation with of [Dr. Sergey Ovchinnikov](https://scholar.google.com/citations?user=8KJ9gf4AAAAJ&hl=en), [SO lab](https://site.solab.org/home), Harvard University. 
 
