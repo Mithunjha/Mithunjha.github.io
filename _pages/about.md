@@ -9,9 +9,9 @@ profile:
   image: Mithunjha.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Northwest Building, 147</p>
-    <p>52 Oxford Street</p>
-    <p>Cambridge, Massachusetts 02138</p>
+    <p>4053 Beckman Institute, </p>
+    <p>405 North Mathews Avenue</p>
+    <p>Urbana, Illinois 61801</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,7 +24,7 @@ I was a joint post-baccalaureate research fellow at the Faculty of Arts and Scie
 
 I received my bachelor's degree in Biomedical Engineering from [Department of Electronic and Telecommication](https://ent.uom.lk/), University of Moratuwa, Sri Lanka, in 2022. I completed my thesis on "Interpretable multi-modal sleep monitoring system using Ear EEG and EOG" with [Dr. Anjula De Silva](https://ent.uom.lk/team/dr-anjula-de-silva/), University of Moratuwa, [Dr. Chamira Edussooriya](https://ent.uom.lk/team/dr-chamira-u-s-edussooriya/), University of Moratuwa and [Dr. Simon Lind Kappel](https://pure.au.dk/portal/en/persons/simon-lind-kappel(ac38d32d-9622-4bf6-9103-1d9225c5322c).html), Aarhus University. I gained industry experience as a trainee biomedical research engineer at Zone24x7, developing biosignal processing algorithms to extract Breathing Rate (BR) from ECG and PPG.
 
-I aspire to work towards developing cutting-edge machine learning methods for advancing medicine and healthcare. I have keen interest on Computer Vision, Deep Learning, Medical Imaging, and Biosignal Processing.
+I aspire to work towards developing cutting-edge machine learning methods for advancing medicine and healthcare. I have a keen interest in Computer Vision, Deep Learning, Medical Imaging, and Biosignal Processing.
 
 ![logos](https://user-images.githubusercontent.com/67052077/194714488-708441f3-90d1-416f-9b3e-542ab6d75801.png){:height="160px" width="800px"}
 <!-- <img src="assets/img/logos.png" width="200"> -->
