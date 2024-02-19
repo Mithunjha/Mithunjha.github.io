@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Joint Post Baccalaureate Fellow, Harvard University
+subtitle: PhD Student, University of Illinois, Urbana Champaign
 
 profile:
   align: right
-  image: IMG_6436.jpeg
+  image: Mithunjha.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Northwest Building, 147</p>
